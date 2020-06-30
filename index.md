@@ -14,7 +14,7 @@ etherpad: https://docs.google.com/document/d/1Payzge5HMju9yWIUdwYPb1x674f55WWLKe
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
   - venue: "Online"
-    address: "https://carpentries.zoom.us/j/FIXME"
+    address: "https://carpentries.zoom.us/my/carpentriesroom1"
 
 ---
 
